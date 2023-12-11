@@ -1,16 +1,3 @@
-# Project 4
-- **Assigned: Friday March 17**
-- **Task 1 Due: Friday March 24, 11:59pm**
-- **Task 2 Due: Friday April 7, 11:59pm**
-
-Assigned by Joe Mertz  
-Please direct questions to Piazza, to a TA, or to Joe.
-
-**Three status notes:**
- - Like the other projects, you must do this project alone. 
- - The updated information on how to deploy Task 2 to the cloud and how to submit Task 2 for grading has been added below.
-  - The images have been re-labled to reflect using GitHub Codespaces.
-
 ## Project Topics: Mobile to Cloud application
 
 This project has 2 tasks:
