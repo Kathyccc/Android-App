@@ -34,13 +34,6 @@ e. A screenshot of the console output from section 1b.
 f. A screenshot of the console output from section 2c.
 
 **4.	Submit your document (only) to Canvas as a pdf by the Task 1 deadline.**  
-Do not submit your code. It will be integrated into Task 2.
-
-**Grading:**  
-- Task 1 complete and submitted on time: Bonus 5 points
-- Task 2 does not use the API demonstrated in Task 1:  Penalty 10 points
-
-*(Small print to head off lots of questions on Piazza:  If you don’t submit Task 1 on time, you get no bonus points.  If you have not committed to an API by submitting Task 1 by the deadline, you can’t be penalized for not using that API.  If you do not use the API submitted in Task 1 on time, you still get the 5 bonus points, but are penalized 10 points, resulting in a net penalty of 5 points. Grace days cannot be used for Task 1.  Grace days, if you have some remaining, can be used for Tasks 2. No purchase necessary. Limit one winner per household. Offer void in NJ, TX, and [Jaynestown](https://en.wikipedia.org/wiki/Jaynestown)).*
 
 ## Task 2: Distributed Application and Dashboard
 ### The Distributed Application
