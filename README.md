@@ -1,9 +1,9 @@
 ## Project Topics: Mobile to Cloud application
 
-**Overview**
+__Overview__  
 This project is a comprehensive exploration of building a distributed application that bridges mobile and cloud environments. The application is centered around a native Android app that interacts with a cloud-based RESTful web service. The goal is to create a seamless experience where mobile users can fetch and process data from a third-party API, with the backend logic handled by the cloud service.
 
-**Key Features**
+__Key Features__  
 - Third-Party API Integration: The application fetches data from a reliable third-party API, processes it on the server side, and delivers relevant information to the mobile client.
 
 - Cloud-Hosted Web Service: A RESTful web service deployed to the cloud manages business logic, interacts with the third-party API, and ensures data integrity.
